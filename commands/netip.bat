@@ -1,0 +1,3 @@
+ipconfig
+cd..
+terminal.bat
