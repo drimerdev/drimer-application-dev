@@ -7,4 +7,12 @@
 -[x] Windows
 -[] Mac OS
 -[] Linux
-# 
+# have
+-[x] Python
+-[x] C#
+-[x] VS Code
+-[x] Node.js
+-[] lua
+-[] outher
+-[x] commands
+-[x] system commands
